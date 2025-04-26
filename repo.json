@@ -3,7 +3,7 @@
   "plugins": [
     {
       "name": "Ranobes",
-      "srcUrl": "lnreader-plugins-master/src/plugins/All/RanobesNet.ts"
+      "srcUrl": "https://github.com/73u/Ranobes.net/blob/2f01b6bfea09d5b36010a3afd7652f593939e6ed/lnreader-plugins-master/src/plugins/All/RanobesNet.ts"
     }
   ]
 }
