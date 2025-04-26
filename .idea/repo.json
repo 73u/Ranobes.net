@@ -1,0 +1,9 @@
+{
+  "name": "Ranobes.net Plugin Repo",
+  "plugins": [
+    {
+      "name": "Ranobes",
+      "srcUrl": "Ranobes.ts"
+    }
+  ]
+}
