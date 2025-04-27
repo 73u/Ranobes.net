@@ -17,8 +17,8 @@ Repository to host plugins and related issues, and requests for
 
 ## Contributing
 
-- [Quick start](./docs/quickstart.md)
-- [Documentation](./docs/docs.md)
+- [Quick start](docsuickstart.md)
+- [Documentation](docsocs.md)
 
 ## Testing
 
@@ -26,7 +26,7 @@ Repository to host plugins and related issues, and requests for
 
 1. Run `npm start` and open `localhost:3000` to test!
 
-[Detailed tutorial for testing website](./docs/website-tutorial.md)
+[Detailed tutorial for testing website](docsebsite-tutorial.md)
 
 #### via an app
 

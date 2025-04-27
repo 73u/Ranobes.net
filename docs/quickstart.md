@@ -14,8 +14,8 @@
 ### Guide
 
 1. Create plugin script in `/plugins` [<span style="font-size: 0.8rem;">(learn more)</span>](#creating-plugin-script)
-2. Copy code from [plugin-template.ts](./plugin-template.ts)
-3. Start coding [<span style="font-size:0.8rem">(documentation)</span>](./docs.md)
+2. Copy code from [plugin-template.ts](plugin-template.ts)
+3. Start coding [<span style="font-size:0.8rem">(documentation)</span>](docs.md)
 
 #### Creating plugin script
 
